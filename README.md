@@ -1,4 +1,4 @@
 ### Тест cropperjs
 #### Запуск 
-`yarn`
-`yarn webpack serve`
+1. `yarn`
+2. `yarn webpack serve`
